@@ -1,3 +1,31 @@
 * Leveraging and Directing Accelerating Change
 
-To be continued!
+Would you like to be part of an Open Culture project which can change the
+world?
+
+#+begin_quote
+Never doubt that a small group of thoughtful, committed citizens can change the
+world; indeed, it's the only thing that ever has.
+- Margaret Mead
+#+end_quote
+
+* Accelerating Change Provides Extraordinary Opportunties
+
+Progress is rapid and seems to be accelerating
+- Scientific and Mathematical (including Computing) Knowledge and Understanding is
+increasing at a breathtaking pace.
+- Our Technological capabilities are also growing rapidly.
+- Developments in these areas accelerate development in other areas,
+  synergistically.
+
+Should we fear such change or should we 
+
+#+begin_quote
+The best way to predict the future is to invent it.
+- Alan Kay
+#+end_quote
+
+
+* Example Projects which have Changed the World!
+
+In the 

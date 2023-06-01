@@ -1,0 +1,15 @@
+* Plan for Leveraging and Guiding Accelerating Change
+
+- [[https://quoteinvestigator.com/2012/09/27/invent-the-future/][The Future is Ours To Invent!]]
+
+** Example FLOSS Projects which have Changed the World
+
+- The Protocols and Software of the Internet
+      - and the World Wide Web
+      - all the protocols are free to build on
+
+- The Gnu/Linux and BSD Operating Systems
+      - Gnu/Linux is Open Source Free/Libre Software (FLOSS)
+      - Android is based on the FLOSS Linux Kernel
+      - Apple's Operating Systems are based on BSD
+            - the underlying BSD is Open Source Software (OSS)

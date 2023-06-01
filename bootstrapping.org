@@ -1,0 +1,12 @@
+* Bootstrapping with Accelerating Change
+
+** Updating Revolutionary Developments
+*** Augment
+*** Sketchpad and ThingLab
+*** Object Relational Databases
+*** Blackboard Models
+
+** Links
+
+Open Culture
+- [[https://creativecommons.org/about/program-areas/arts-culture/][Creative Commons]]
